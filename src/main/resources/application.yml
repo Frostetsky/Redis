@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+cache:
+  city:
+    hash: 7e1ead13-8025-4bad-ad6d-38c67c49045e
